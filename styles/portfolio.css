@@ -157,9 +157,13 @@ border-radius: 16px;
 
 .second-bg{
     background-image: url(../assets/handshake.jpg);
-    width: 1140px;
-    height: 314px;
+    /* width: 1140px;
+    height: 314px; */
 padding: 10px 10px 10px 10px; 
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+height:315px;
 
 
 
