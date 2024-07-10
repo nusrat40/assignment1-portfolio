@@ -17,13 +17,14 @@ height: 700px;
     align-items: center;
 }
 .banner-content{
-    max-width: 550px;
+    /* max-width: 550px; */
     align-items: center;
 } 
 
 .banner-heading{
     font-size: 48px;
     font-weight: 800;
+    width: 1000px;
 
 }
 .banner-des{
@@ -32,13 +33,13 @@ height: 700px;
     opacity: 0.7;
     color: rgb(13, 19, 33);
     margin-bottom: 20px;
+    width: 852px;
 
 }
 .banner-pic{
     width: 245px;
 height: 250px;
-margin-top: 20px;
-margin-left: 80px;
+margin:20px 50px 10px 350px;
 }
 .banner-btn{
     font-weight: 600;
@@ -48,7 +49,7 @@ margin-left: 80px;
     border-radius: 8px;
     border:none;
    background: rgb(13, 19, 33);
-   margin-left: 80px;
+   margin:20px 50px 10px 350px;
 }
 main{
     max-width: 1140px;
@@ -57,6 +58,9 @@ main{
 main section{
     margin-top: 100px;
     margin-bottom: 100px;
+}
+.dev{
+    padding: 80px 97px 80px 97px;
 }
 
 .dev-bg{
@@ -156,6 +160,7 @@ border-radius: 16px;
     width: 1140px;
     height: 314px;
 padding: 10px 10px 10px 10px; 
+
 
 
 }
